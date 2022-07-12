@@ -1,6 +1,6 @@
 <template>
-    <footer>
-        <p>Footer</p>
+    <footer id="footer">
+        <p >Make Your Burger &copy; 2022</p>
     </footer>
 
 </template>
@@ -13,5 +13,16 @@ export default{
 </script>
 
 <style scoped>
+
+    #footer{
+            background-color: #222222;
+            border-top: 4px solid #111;
+            height: 221px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color:#fcba03;
+            width: 100%;
+        }
 
 </style>
