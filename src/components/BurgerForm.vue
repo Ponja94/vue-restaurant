@@ -135,6 +135,7 @@
     #burger-form{
         max-width: 400px;
         margin: 0 auto;
+        padding-left: 50px;
 
     }
 
@@ -142,6 +143,7 @@
         display: flex;
         flex-direction: column;
         margin-bottom: 20px;
+        padding-right: 50px;
 
     }
 
