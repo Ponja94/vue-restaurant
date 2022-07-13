@@ -83,36 +83,14 @@
   ],
   "burgers": [
     {
-      "nome": "daniel",
-      "carne": "Maminha",
-      "pao": "",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
       "nome": "a",
       "carne": "Maminha",
       "pao": "Italiano Branco",
       "opcionais": [
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
-    },
-    {
-      "nome": "a",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 3
     },
     {
       "nome": "aasd",
