@@ -21,7 +21,7 @@ npm run backend
 
 <hr>
 
-And the final result you can check in the image below or by <a src="https://ponja94.github.io/vue-restaurant/">clicking here!</a>
+And the final result you can check in the image below or by <a href="https://ponja94.github.io/vue-restaurant/">clicking here!</a>
 
 <img src="img-readme/sitefinal.png">
 
