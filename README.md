@@ -1,13 +1,13 @@
 # vue-restaurant
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
+## Project start front end
 ```
 npm run serve
+```
+
+### Project start back end
+```
+npm run backend
 ```
 
 ### Compiles and minifies for production
