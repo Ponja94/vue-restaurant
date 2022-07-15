@@ -12,5 +12,5 @@ npm run backend
 
 ### 
 ```
-<img src="img readme/start project.png">
+<img src="img-readme/start-project.png">
 ```
