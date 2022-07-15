@@ -7,7 +7,7 @@ On this site I used my knowledge of how to reuse components, how to make a CRUD 
 I learned how to use methods, props, mounted, click events, loops, forms, ...
 
 <hr>
-## Project start front end in local host
+### Project start front end in local host
 ```
 npm run serve
 ```
