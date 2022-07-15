@@ -6,7 +6,7 @@ On this site I used my knowledge of how to reuse components, how to make a CRUD 
 
 I learned how to use methods, props, mounted, click events, loops, forms, ...
 
-<hr>
+
 ### Project start front end in local host
 ```
 npm run serve
@@ -20,7 +20,8 @@ npm run backend
 <img src="img-readme/start-project.png">
 
 <hr>
-### And the final result you can check in the image below or by <a src="https://ponja94.github.io/vue-restaurant/">clicking here!</a>
+
+And the final result you can check in the image below or by <a src="https://ponja94.github.io/vue-restaurant/">clicking here!</a>
 
 <img src="img-readme/site-final.png">
 
